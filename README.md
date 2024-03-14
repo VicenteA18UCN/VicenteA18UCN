@@ -5,9 +5,10 @@ Hello everyone, my name is Vicente Alarcón. I am a student of Civil Engineering
 My interests are focused in the area of software development, specifically web development. In addition, I have a great interest in data science.
 
 Currently I know how to use the following frameworks:
+- Nest.js
+- React
 - Laravel
 - Express
 - .NET
-- React
 
 ## Thanks for visiting my profile 🥰
